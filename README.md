@@ -1,5 +1,8 @@
 # 💫 About Me:
-Atualmente estou estudando
+🌐 Full-Stack Learner | Java + Python  
+📊 Databases: MySQL  
+🎨 Frontend Basics: HTML/CSS/JS  
+🔍 Goal: Build efficient systems from DB to UI.  
 
 
 ## 🌐 Socials:

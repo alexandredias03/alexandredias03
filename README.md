@@ -1,8 +1,8 @@
 # 💫 About Me:
-🌐 Full-Stack Learner | Java + Python  
-📊 Databases: MySQL  
-🎨 Frontend Basics: HTML/CSS/JS  
-🔍 Goal: Build efficient systems from DB to UI.  
+🌐 Full-Stack Developer | ERP + Modern Stack  
+🔷 ADVPL (TOTVS) | Java | Python  
+🗃️ Databases: SQL Server + MySQL  
+🎨 Frontend: HTML/CSS/JS  
 
 
 ## 🌐 Socials:
